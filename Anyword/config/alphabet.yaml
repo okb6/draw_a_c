@@ -1,0 +1,112 @@
+Multi_Robot/alphabet:
+  ros__parameters:
+    letters:
+      a:
+        points: 7
+        point_storage:
+          1_angle: 0
+          1_point: [0.0, 0.0]
+          2_angle: 60
+          2_point: [10.0, -5.0]
+          3_angle: -60
+          3_point: [0.0, -10.0]
+          4_angle: -60
+          4_point: [5.0, -7.12]
+          5_angle: 0
+          5_point: [5.0, -2.88]
+          6_angle: 0
+          6_point: [5.0, -7.12]
+          7_angle: -60
+          7_point: [10, -5.0]
+      b:
+        points: 11
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -3.0]
+        fourth_angle: 0
+        fourth_point: [5.0, -3.0]
+        fifth_angle: 0
+        fifth_point: [5.0, 0.0]
+        sixth_angle: 0
+        sixth_point: [0.0, 0.0]
+        seventh_angle: 0
+        seventh_point: [0.0, -10.0]
+        eighth_angle: 0
+        eighth_point: [5.0, -10.0]
+        ninth_angle: 0
+        ninth_point: [5.0, 0.0]
+        tenth_angle: 0
+        tenth_point: [5.0, -10.0]
+        eleventh_angle: 0
+        eleventh_point: [0.0, -10.0]
+      c:
+        points: 6
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -10.0]
+        fourth_angle: 0
+        fourth_point: [10.0, 0.0]
+        fifth_angle: 0
+        fifth_point: [0.0, 0.0]
+        sixth_angle: 0
+        sixth_point: [0.0, -10.0]
+      d:
+        points: 5
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: -45
+        third_point: [5.0, -5.0]
+        fourth_angle: 45
+        fourth_point: [0.0, 0.0]
+        fifth_angle: 0
+        fifth_point: [0.0, -10.0]        
+      e:
+        points: 9
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -10.0]
+        fourth_angle: 0
+        fourth_point: [10.0, 0.0]
+        fifth_angle: 0
+        fifth_point: [5.0, 0.0]
+        sixth_angle: 0
+        sixth_point: [5.0, -5.0]
+        seventh_angle: 0
+        seventh_point: [5.0, 0.0]
+        eighth_angle: 0
+        eighth_point: [0.0, 0.0]
+        ninth_angle: 0
+        ninth_point: [0.0, -10.0]
+      f:
+      g:
+      h:
+      i:
+      j:
+      k:
+      l:
+      m:
+      n:
+      o:
+      p:
+      q:
+      r:
+      s:
+      t:
+      u:
+      v:
+      w:
+      x:
+      y:
+      z:
+      /:
