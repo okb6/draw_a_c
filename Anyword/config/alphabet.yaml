@@ -89,24 +89,101 @@ Multi_Robot/alphabet:
         ninth_angle: 0
         ninth_point: [0.0, -10.0]
       f:
+        points: 9
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -10.0]
+        fourth_angle: 0
+        fourth_point: [10.0, 0.0]
+        fifth_angle: 0
+        fifth_point: [5.0, 0.0]
+        sixth_angle: 0
+        sixth_point: [5.0, -5.0]
+        seventh_angle: 0
+        seventh_point: [5.0, 0.0]
+        eighth_angle: 0
+        eighth_point: [0.0, 0.0]
+        ninth_angle: 0
+        ninth_point: [0.0, -10.0]
       g:
+        points: 10
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -10.0]
+        fourth_angle: 0
+        fourth_point: [10.0, 0.0]
+        fifth_angle: 0
+        fifth_point: [0.0, 0.0]
+        sixth_angle: 0
+        sixth_point: [0.0, -10.0]
+        seventh_angle: 0
+        seventh_point: [4.0, -10.0]
+        eighth_angle: 0
+        eighth_point: [4.0, -6.0]
+        ninth_angle: 0
+        ninth_point: [4.0, -10.0]
+        tenth_angle: 0
+        tenth_point: [0.0, -10.0]
       h:
+        points: 5
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [5.0, 0.0]
+        fourth_angle: 0
+        fourth_point: [5.0, -10.0]
+        fifth_angle: 0
+        fifth_point: [10.0, -10.0]
+        sixth_angle: 0
+        sixth_point: [0.0, -10.0]
       i:
-      j:
-      k:
-      l:
-      m:
-      n:
-      o:
-      p:
-      q:
+        points: 5
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [0.0, -5.0]
+        third_angle: 0
+        third_point: [10.0, -5.0]
+        fourth_angle: 0
+        fourth_point: [0.0, -5.0]
+        fifth_angle: 0
+        fifth_point: [0.0, -10.0]        
+      # j:
+      # k:
+      # l:
+      # m:
+      # n:
+      # o:
+      # p:
+      # q:
       r:
-      s:
-      t:
-      u:
-      v:
-      w:
-      x:
-      y:
-      z:
-      /:
+        points: 6
+        first_angle: 0
+        first_point: [0.0, 0.0]
+        second_angle: 0
+        second_point: [10.0, 0.0]
+        third_angle: 0
+        third_point: [10.0, -10.0]
+        fourth_angle: 0
+        fourth_point: [6.0, -10.0]
+        fifth_angle: 0
+        fifth_point: [6.0, 0.0]
+        sixth_angle: -60
+        sixth_point: [0.0, -10.0]
+      # s:
+      # t:
+      # u:
+      # v:
+      # w:
+      # x:
+      # y:
+      # z:
+      # /:
